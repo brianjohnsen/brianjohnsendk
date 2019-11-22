@@ -1,4 +1,3 @@
 user-agent: *
-disallow: /plader/
 disallow: /uni/
 
